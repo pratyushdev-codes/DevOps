@@ -2,7 +2,7 @@
 DevOps Handwritten Notes <br/>
 Computer Networks Handwritten Notes<br/>
 <br/>
-![0_NXlBkHolIQvfO_Rr](https://github.com/pratyushdev-codes/DevOps/assets/109750976/97acbe89-5ac1-46cc-8c46-3616c4d06e90)
+https://www.contrastsecurity.com/hs-fs/hubfs/images/DevOps%20Solutions/devops-old-way.gif?width=1322&name=devops-old-way.gif
 
 
 
